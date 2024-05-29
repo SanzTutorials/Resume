@@ -1,0 +1,46 @@
+{
+    "name": "SANDRA MARIYA",
+    "contact": {
+      "email": "sandrasunny579@gmail.com",
+      "phone": "+1 (548) 406-7890"
+    },
+    "introduction": "Highly motivated and skilled web developer with a passion for creating user-friendly and innovative web applications.",
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "university": "Kerala Technology University",
+        "year": "2022"
+      },
+      {
+        "degree": "Secondary Education",
+        "university": "CBSE",
+        "year": "2018"
+      },
+      {
+        "degree": "Primary Education",
+        "university": "CBSE",
+        "year": "2015"
+      }
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "experience": [
+      {
+        "position": "Web Developer",
+        "company": "Cognizant Private Limited",
+        "duration": "2022 - 2023",
+        "responsibilities": [
+          "Developing and maintaining web applications",
+          "Collaborating with cross-functional teams to design and implement new features",
+          "Optimizing website performance and user experience"
+        ]
+      }
+    ]
+  }
+  
